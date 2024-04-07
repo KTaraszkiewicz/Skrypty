@@ -1,0 +1,1 @@
+Skrypt Bash, który sprawdza, czy aktualnie używana platforma to Linux lub WSL (Windows Subsystem for Linux). Jeśli to Linux, wyświetla status demona SSHD. Jeśli jest to WSL, wyświetla liczbę zmiennych środowiskowych zawierających w nazwie BASH lub SHELL i wyświetl te zmienne.
